@@ -1,0 +1,3 @@
+{"id":"synthetic-001","project":"DEMO-ATLAS","date":"2026-01-05","kind":"decision","text":"The fictional project will use a temporary in-memory index.","source":"demo-only"}
+{"id":"synthetic-002","project":"DEMO-ATLAS","date":"2026-01-07","kind":"decision","text":"The fictional project replaced the temporary index with persistent local storage.","supersedes":"synthetic-001","source":"demo-only"}
+{"id":"synthetic-003","project":"DEMO-ATLAS","date":"2026-01-08","kind":"test","text":"A synthetic recovery test should verify recall after restart.","source":"demo-only"}
